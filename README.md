@@ -20,7 +20,7 @@ An academic Business Analyst project focused on analyzing the scientific paper r
 ## Skills Demonstrated
 
 - Business Process Analysis
-- Root Cause Analysis — Fishbone Diagram
+- Root Cause Analysis - Fishbone Diagram
 - Functional Requirements Analysis
 - Use Case Modeling
 - Entity-Relationship Diagram (ERD)
