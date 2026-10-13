@@ -36,7 +36,7 @@ An academic Business Analyst project focused on analyzing the scientific paper r
 
 **Final Project Report (PDF)**
 
-[View the Full Project Report]
+[View the Full Project Report](https://github.com/toquyen625-glitch/scientific-paper-review-process-analysis/blob/main/Business%20Analysis%20of%20a%20Scientific%20Paper%20Review%20and%20Approval%20Process.pdf)
 ## Project Information
 
 | Category | Details |
